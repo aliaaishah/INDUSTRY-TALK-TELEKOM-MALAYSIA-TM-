@@ -4,3 +4,5 @@ I recently attended an insightful industry talk by Telekom Malaysia (TM), where 
 The talk explored how TM is evolving from a traditional telecommunications provider into a next-generation digital enabler, supporting industries through smart solutions, high-speed connectivity, and digital infrastructure-TM-
 Following this talk, I compiled key insights into a newsletter, summarizing TM's digital transformation strategies and their implications for businesses and consumers. This experience allowed me to analyze real-world industry trends, enhance my technical writing skills, and deepen my understanding of digital transformation in Malaysia.
 
+Here's the newletter that me and my groupmates created to sum up the industrial talk:
+https://github.com/aliaaishah/INDUSTRY-TALK-TELEKOM-MALAYSIA-TM-/blob/main/Assignment%204-%20Group%202.pdf
